@@ -3,7 +3,7 @@
 🎯 A passionate lifelong learner making a bold career pivot from Finance to AI.
 ________________________________________
 🧭 My Story
-I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 15 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and portfolio analysis.
+I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 15 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
 
 Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
 ________________________________________
@@ -27,10 +27,20 @@ Total Courses: 30 credits (Core: 18 | Electives: 12)
 10.	Practical Development of AI Applications
 11.	Practical Development of Machine Learning Applications
 12.	Machine Learning: Supervised Learning
+13.	Principles of Artificial Intelligence Problem Solving and Search
+14.	Knowledge and Reasoning Logic and Uncertainty
+15.	...
 🧪 Next Steps:
 •	Comprehensive Examination
 •	Independent Study (IS) or Thesis
 🎓 Balancing full-time work and study through TUXSA has been challenging yet incredibly rewarding.
+________________________________________
+## 📜 Certificates
+Here are some of the certifications I have earned during my learning journey:
+
+- **Machine Learning Specialization** – Coursera (Andrew Ng, Stanford University & DeepLearning.AI) – *Feb 2025**  
+
+> 🏅 *More certificates coming soon as I continue my AI & Data Science journey.*
 ________________________________________
 💼 From Finance to AI
 Then (Past)	Now (Future)
