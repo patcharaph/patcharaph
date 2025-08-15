@@ -42,7 +42,7 @@ Here are some of the certifications I have earned during my learning journey:
 |-------------|-----------|------|------|
 | Principles of Artificial Intelligence: Problem Solving and Search | Coursera | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
 
-> 🏅 *More certificates coming soon as I continue my AI & Data Science journey.*
+> 🏅 *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 ________________________________________
 💼 From Finance to AI
 Then (Past)	Now (Future)
