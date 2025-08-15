@@ -1,9 +1,9 @@
 
 👋 Hello, I'm Patchara (Pae)
-🎯 A passionate lifelong learner making a bold career pivot from Finance to AI.
+🎯 A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
 ________________________________________
 🧭 My Story
-I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 15 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
+I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
 
 Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
 ________________________________________
@@ -38,16 +38,18 @@ ________________________________________
 ## 📜 Certificates
 Here are some of the certifications I have earned during my learning journey:
 
-- **Machine Learning Specialization** – Coursera (Andrew Ng, Stanford University & DeepLearning.AI) – *Feb 2025**  
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
+| Principles of Artificial Intelligence: Problem Solving and Search | Coursera | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
 
 > 🏅 *More certificates coming soon as I continue my AI & Data Science journey.*
 ________________________________________
 💼 From Finance to AI
 Then (Past)	Now (Future)
-💼 Treasury & Liquidity	🤖 AI & Machine Learning
+💼 Treasury & Liquidity	🤖 AI Engineer & Machine Learning
 📈 Risk & Portfolio Analysis	📊 Predictive Modeling
 🧮 Excel & VBA Automation	🐍 Python, Pandas, Scikit-learn
-🧠 Decision Support Systems	🧠 Neural Networks, NLP, IoT
+🧠 Decision Support Systems	🧠 Neural Networks, NLP, IoT, Deep learning
 ________________________________________
 🚧 Current Focus
 •	🧑‍💻 Building real-world AI projects (e.g. Stock Prediction, Clustering, NLP)
