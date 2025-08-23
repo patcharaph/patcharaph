@@ -29,7 +29,7 @@ Total Courses: 30 credits (Core: 18 | Electives: 12)
 12.	Machine Learning: Supervised Learning
 13.	Principles of Artificial Intelligence Problem Solving and Search
 14.	Knowledge and Reasoning Logic and Uncertainty
-15.	...
+15.	Research Methodology in Applied Artificial Intelligence
 🧪 Next Steps:
 •	Comprehensive Examination
 •	Independent Study (IS) or Thesis
@@ -40,7 +40,21 @@ Here are some of the certifications I have earned during my learning journey:
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
-| Principles of Artificial Intelligence: Problem Solving and Search | Coursera | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
+| Applications of Artificial Intelligence: Theories and Innovations | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/KV9EC1M) |
+| Computational Mathematics: Discrete Mathematics | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/07DXJTV) |
+| Computational Mathematics: Probability | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/3G1OO3E) |
+| Computational Mathematics: Linear Algebra | TUXSA | Apr 2025 | [View Certificate](https://certificate.skilllane.com/certificates/C9E11GT) |
+| Machine Learning: Unsupervised Learning | TUXSA | Jul 2025 | [View Certificate](https://certificate.skilllane.com/certificates/7RQMQZ6) |
+| Machine Learning: Deep Learning | TUXSA | Jul 2025 | [View Certificate](https://certificate.skilllane.com/certificates/FOPWBBA) |
+| Basic Programming with Python for AI | TUXSA | Mar 2025 | [View Certificate](https://certificate.skilllane.com/certificates/RVGPUE2) |
+| Advanced Programming with Python Libraries for AI | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/39O4XNR) |
+| AI Applications with Python and AI Languages | TUXSA | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/15A4SW3) |
+| Practical Development of AI Applications | TUXSA | Aug 2025 | [View Certificate]() |
+| Practical Development of Machine Learning Applications | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/LWJ0H28) |
+| Machine Learning: Supervised Learning | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/6S8ISYR) |
+| Principles of Artificial Intelligence Problem Solving and Search | TUXSA | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
+| Knowledge and Reasoning Logic and Uncertainty | TUXSA | Aug 2025 | [View Certificate]() |
+| Research Methodology in Applied Artificial Intelligence | TUXSA | Aug 2025 | [View Certificate]() |
 
 > 🏅 *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 ________________________________________
