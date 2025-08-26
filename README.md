@@ -56,8 +56,7 @@ Here are some of the certifications I have earned during my learning journey:
 | Knowledge and Reasoning Logic and Uncertainty | TUXSA | Aug 2025 | [View Certificate]() |
 | Research Methodology in Applied Artificial Intelligence | TUXSA | Aug 2025 | [View Certificate]() |
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
-
-
+| Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 > 🏅 *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 ________________________________________
 💼 From Finance to AI
