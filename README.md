@@ -41,7 +41,7 @@ Here are some of the certifications I have earned during my learning journey:
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
 | 1. Basic Programming with Python for AI | TUXSA | 25 Mar 2025 | [View Certificate](https://drive.google.com/file/d/19EyaKp2TO0sXIm8KTXs-kZy2R7BefawF/view?usp=sharing) |
-| 2. Computational Mathematics: Linear Algebra | TUXSA | 22 Apr 2025 | [View Certificate]([https://certificate.skilllane.com/certificates/C9E11GT](https://drive.google.com/file/d/1r6hb3688x-JhllFRK_wOgu8r167ulKpw/view?usp=sharing)) |
+| 2. Computational Mathematics: Linear Algebra | TUXSA | 22 Apr 2025 | [View Certificate](https://drive.google.com/file/d/1r6hb3688x-JhllFRK_wOgu8r167ulKpw/view?usp=sharing) |
 | 3. Computational Mathematics: Probability | TUXSA | 30 Apr 2025 | [View Certificate](https://drive.google.com/file/d/1X5xiu3dfbs999GB_btH2dTNgZocCBne6/view?usp=sharing) |
 | 4. Computational Mathematics: Discrete Mathematics | TUXSA | 16 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1xdV-VoroErnBEUOWwais3DEP1GM4ROTe/view?usp=sharing) |
 | 5. Advanced Programming with Python Libraries for AI | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1CQb4HM-NEjV9PRIZWsRQARr6njPv7Sl4/view?usp=sharing) |
