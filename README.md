@@ -54,7 +54,7 @@ Here are some of the certifications I have earned during my learning journey:
 | Machine Learning: Supervised Learning | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/6S8ISYR) |
 | Principles of Artificial Intelligence Problem Solving and Search | TUXSA | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
 | Knowledge and Reasoning Logic and Uncertainty | TUXSA | Aug 2025 | [View Certificate]() |
-| Research Methodology in Applied Artificial Intelligence | TUXSA | Aug 2025 | [View Certificate]() |
+| Research Methodology in Applied Artificial Intelligence | TUXSA | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1k5PN4y-MekEg2ksz7_QiIUHO9dCytbyr/view?usp=sharing) |
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
