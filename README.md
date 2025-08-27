@@ -40,21 +40,21 @@ Here are some of the certifications I have earned during my learning journey:
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
-| Applications of Artificial Intelligence: Theories and Innovations | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/KV9EC1M) |
-| Computational Mathematics: Discrete Mathematics | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/07DXJTV) |
-| Computational Mathematics: Probability | TUXSA | May 2025 | [View Certificate](https://certificate.skilllane.com/certificates/3G1OO3E) |
-| Computational Mathematics: Linear Algebra | TUXSA | Apr 2025 | [View Certificate](https://certificate.skilllane.com/certificates/C9E11GT) |
-| Machine Learning: Unsupervised Learning | TUXSA | Jul 2025 | [View Certificate](https://certificate.skilllane.com/certificates/7RQMQZ6) |
-| Machine Learning: Deep Learning | TUXSA | Jul 2025 | [View Certificate](https://certificate.skilllane.com/certificates/FOPWBBA) |
-| Basic Programming with Python for AI | TUXSA | Mar 2025 | [View Certificate](https://certificate.skilllane.com/certificates/RVGPUE2) |
-| Advanced Programming with Python Libraries for AI | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/39O4XNR) |
-| AI Applications with Python and AI Languages | TUXSA | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/15A4SW3) |
-| Practical Development of AI Applications | TUXSA | Aug 2025 | [View Certificate]() |
-| Practical Development of Machine Learning Applications | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/LWJ0H28) |
-| Machine Learning: Supervised Learning | TUXSA | Jun 2025 | [View Certificate](https://certificate.skilllane.com/certificates/6S8ISYR) |
-| Principles of Artificial Intelligence Problem Solving and Search | TUXSA | Aug 2025 | [View Certificate](https://certificate.skilllane.com/certificates/AKHCD67) |
-| Knowledge and Reasoning Logic and Uncertainty | TUXSA | Aug 2025 | [View Certificate]() |
-| Research Methodology in Applied Artificial Intelligence | TUXSA | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1k5PN4y-MekEg2ksz7_QiIUHO9dCytbyr/view?usp=sharing) |
+| 1. Basic Programming with Python for AI | TUXSA | 25 Mar 2025 | [View Certificate](https://drive.google.com/file/d/19EyaKp2TO0sXIm8KTXs-kZy2R7BefawF/view?usp=sharing) |
+| 2. Computational Mathematics: Linear Algebra | TUXSA | 22 Apr 2025 | [View Certificate]([https://certificate.skilllane.com/certificates/C9E11GT](https://drive.google.com/file/d/1r6hb3688x-JhllFRK_wOgu8r167ulKpw/view?usp=sharing)) |
+| 3. Computational Mathematics: Probability | TUXSA | 30 Apr 2025 | [View Certificate](https://drive.google.com/file/d/1X5xiu3dfbs999GB_btH2dTNgZocCBne6/view?usp=sharing) |
+| 4. Computational Mathematics: Discrete Mathematics | TUXSA | 16 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1xdV-VoroErnBEUOWwais3DEP1GM4ROTe/view?usp=sharing) |
+| 5. Advanced Programming with Python Libraries for AI | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1CQb4HM-NEjV9PRIZWsRQARr6njPv7Sl4/view?usp=sharing) |
+| 6. Applications of Artificial Intelligence: Theories and Innovations | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1mfeOCAMBUaP2jP_DUsAPM-P1XER-3gXy/view?usp=sharing) |
+| 7. Practical Development of Machine Learning Applications | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1WJ_CJTUZh2zF8HUVzY6qm-3qDpzIghpQ/view?usp=sharing) |
+| 8. Machine Learning: Supervised Learning | TUXSA | 23 Jun 2025 | [View Certificate](https://drive.google.com/file/d/13wtelNrZgj9O5Qqqaq7JzDxAJyEC20bh/view?usp=sharing) |
+| 9. Machine Learning: Unsupervised Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/11WPox6FqBB4bV7ucZdLix5JLSA53gb57/view?usp=sharing) |
+| 10. Machine Learning: Deep Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/1eFt7aSA3xXvIR4SJgcKH5Thub_vyBIkv/view?usp=sharing) |
+| 11. AI Applications with Python and AI Languages | TUXSA | 6 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1-HBaEniOlDpW964MMvAHmz12oFgQ22ww/view?usp=sharing) |
+| 12. Practical Development of AI Applications | TUXSA | xx Aug 2025 | [View Certificate]() |
+| 13. Principles of Artificial Intelligence Problem Solving and Search | TUXSA | 14 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1iDThzwXDk-Xml4aS7ZBQeblJ5aV_I1Ef/view?usp=sharing) |
+| 14. Knowledge and Reasoning Logic and Uncertainty | TUXSA | xx Aug 2025 | [View Certificate]() |
+| 15. Research Methodology in Applied Artificial Intelligence | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1dgXZHjNtUZIJbITSYlqLwiEfaVKW2p8g/view?usp=sharing) |
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
