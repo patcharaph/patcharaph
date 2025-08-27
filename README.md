@@ -51,7 +51,7 @@ Here are some of the certifications I have earned during my learning journey:
 | 9. Machine Learning: Unsupervised Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/11WPox6FqBB4bV7ucZdLix5JLSA53gb57/view?usp=sharing) |
 | 10. Machine Learning: Deep Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/1eFt7aSA3xXvIR4SJgcKH5Thub_vyBIkv/view?usp=sharing) |
 | 11. AI Applications with Python and AI Languages | TUXSA | 6 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1-HBaEniOlDpW964MMvAHmz12oFgQ22ww/view?usp=sharing) |
-| 12. Practical Development of AI Applications | TUXSA | xx Aug 2025 | [View Certificate](https://drive.google.com/file/d/1wAXUorj-HeOh7y1uNmFG67YQmUJN6SSE/view?usp=sharing) |
+| 12. Practical Development of AI Applications | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1wAXUorj-HeOh7y1uNmFG67YQmUJN6SSE/view?usp=sharing) |
 | 13. Principles of Artificial Intelligence Problem Solving and Search | TUXSA | 14 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1iDThzwXDk-Xml4aS7ZBQeblJ5aV_I1Ef/view?usp=sharing) |
 | 14. Knowledge and Reasoning Logic and Uncertainty | TUXSA | xx Aug 2025 | [View Certificate]() |
 | 15. Research Methodology in Applied Artificial Intelligence | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1dgXZHjNtUZIJbITSYlqLwiEfaVKW2p8g/view?usp=sharing) |
