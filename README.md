@@ -55,6 +55,9 @@ Here are some of the certifications I have earned during my learning journey:
 | 13. Principles of Artificial Intelligence Problem Solving and Search | TUXSA | 14 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1iDThzwXDk-Xml4aS7ZBQeblJ5aV_I1Ef/view?usp=sharing) |
 | 14. Knowledge and Reasoning Logic and Uncertainty | TUXSA | xx Aug 2025 | [View Certificate]() |
 | 15. Research Methodology in Applied Artificial Intelligence | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1dgXZHjNtUZIJbITSYlqLwiEfaVKW2p8g/view?usp=sharing) |
+| 16. Research Seminar I in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1aHQ8KT9KyRD222oEWWZUpufBBTiGYfcg/view?usp=sharing) |
+| 17. Research Seminar II in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1J-o68vJbMFOBT249OEfObvIvyIHfu3QX/view?usp=sharing) |
+| 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | xx Sep 2025 | [View Certificate]() |
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
