@@ -1,5 +1,5 @@
 
-👋 Hello, I'm Patchara (Pae)
+👋 Hello, I'm Patchara
 🎯 A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
 ________________________________________
 🧭 My Story
