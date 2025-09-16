@@ -10,6 +10,7 @@ Driven by a passion for continuous learning, in 2025 I decided to pivot towards 
 ________________________________________
 🎓 Academic Roadmap: Master’s Degree in AI & IoT
 Currently studying in the TUXSA program – an online master’s degree initiative by Thammasat University in collaboration with SkillLane.
+____________
 Program: Master of Engineering in Artificial Intelligence and Internet of Things (International Program)
 University: Thammasat University (Online via TUXSA)
 Major: Applied AI
