@@ -6,6 +6,7 @@ ________________________________________
 I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
 
 Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
+
 ________________________________________
 🎓 Academic Roadmap: Master’s Degree in AI & IoT
 Currently studying in the TUXSA program – an online master’s degree initiative by Thammasat University in collaboration with SkillLane.
@@ -13,7 +14,7 @@ Program: Master of Engineering in Artificial Intelligence and Internet of Things
 University: Thammasat University (Online via TUXSA)
 Major: Applied AI
 Total Courses: 30 credits (Core: 18 | Electives: 12)
-📚 Progress: Completed 12 out of 30 subjects
+📚 Progress: Completed 18 out of 30 subjects
 ✅ Courses Completed:
 1.	Applications of Artificial Intelligence: Theories and Innovations
 2.	Computational Mathematics: Discrete Mathematics
@@ -30,6 +31,10 @@ Total Courses: 30 credits (Core: 18 | Electives: 12)
 13.	Principles of Artificial Intelligence Problem Solving and Search
 14.	Knowledge and Reasoning Logic and Uncertainty
 15.	Research Methodology in Applied Artificial Intelligence
+16.	Research Seminar I in Applied Artificial Intelligence
+17. Research Seminar II in Applied Artificial Intelligence
+18. Critical Thinking and EthicsLaw for Artificial Intelligence
+
 🧪 Next Steps:
 •	Comprehensive Examination
 •	Independent Study (IS) or Thesis
