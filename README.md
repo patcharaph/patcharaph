@@ -69,7 +69,7 @@ Here are some of the certifications I have earned during my learning journey:
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
 
 > 🏅 *Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
-> Completed:**Machine Learning with Python***
+> Completed:**Machine Learning with Python***.
 > *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 
 ________________________________________
