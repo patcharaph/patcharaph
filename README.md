@@ -14,7 +14,7 @@ ____________
 Program: Master of Engineering in Artificial Intelligence and Internet of Things (International Program)
 University: Thammasat University (Online via TUXSA)
 Major: Applied AI
-Total Courses: 30 credits (Core: 18 | Electives: 12)
+Total Courses**: 30 credits (Core: 18 | Electives: 12)
 📚 Progress: Completed 18 out of 30 subjects
 ✅ Courses Completed:
 1.	Applications of Artificial Intelligence: Theories and Innovations
@@ -67,8 +67,15 @@ Here are some of the certifications I have earned during my learning journey:
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
+
 > 🏅 *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
+>
+> 🏅 *Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
+> Completed:**Machine Learning with Python***  
+
+---
 ________________________________________
+
 💼 From Finance to AI
 Then (Past)	Now (Future)
 💼 Treasury & Liquidity	🤖 AI Engineer & Machine Learning
