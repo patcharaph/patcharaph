@@ -67,6 +67,9 @@ Here are some of the certifications I have earned during my learning journey:
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
+| 01. Machine Learning with Python | COURSERA | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
+| 02. Introduction to Deep Learning & Neural Networks with Keras | COURSERA | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
+| 03. Deep Learning with Keras and Tensorflow | COURSERA | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
 
 > 🏅 *Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 > Completed:**Machine Learning with Python***.
