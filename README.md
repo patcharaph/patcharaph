@@ -1,21 +1,24 @@
 
-👋 Hello, I'm Patchara
-🎯 A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
+# Hello, I'm Patchara
+A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
 ________________________________________
-🧭 My Story
+## My Story
 I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
+
 
 Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
 
 ________________________________________
-🎓 Academic Roadmap: Master’s Degree in AI & IoT
+## Academic Roadmap: Master’s Degree in AI & IoT
 Currently studying in the TUXSA program – an online master’s degree initiative by Thammasat University in collaboration with SkillLane.
 ____________
-Program: Master of Engineering in Artificial Intelligence and Internet of Things (International Program)
-University: Thammasat University (Online via TUXSA)
-Major: Applied AI
-Total Courses**: 30 credits (Core: 18 | Electives: 12)
-📚 Progress: Completed 18 out of 30 subjects
+- Program: Master of Engineering in Artificial Intelligence and Internet of Things (International Program)  
+- University: Thammasat University (Online via TUXSA)  
+- Major: Applied AI  
+- Total Courses: 30 credits (Core: 18 | Electives: 12)
+
+**Progress:** Completed 18 out of 30 subjects
+
 ✅ Courses Completed:
 1.	Applications of Artificial Intelligence: Theories and Innovations
 2.	Computational Mathematics: Discrete Mathematics
@@ -36,10 +39,11 @@ Total Courses**: 30 credits (Core: 18 | Electives: 12)
 17. Research Seminar II in Applied Artificial Intelligence
 18. Critical Thinking and EthicsLaw for Artificial Intelligence
 
-🧪 Next Steps:
+✅ Next Steps:
 •	Comprehensive Examination
 •	Independent Study (IS) or Thesis
-🎓 Balancing full-time work and study through TUXSA has been challenging yet incredibly rewarding.
+
+ **Balancing full-time work and study through TUXSA has been challenging yet incredibly rewarding.**
 ________________________________________
 ## 📜 Certificates
 Here are some of the certifications I have earned during my learning journey:
@@ -67,37 +71,69 @@ Here are some of the certifications I have earned during my learning journey:
 | Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
-| 01. Machine Learning with Python | COURSERA | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
-| 02. Introduction to Deep Learning & Neural Networks with Keras | COURSERA | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
-| 03. Deep Learning with Keras and Tensorflow | COURSERA | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
+| 1. Machine Learning with Python | COURSERA (IBM) | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
+| 2. Introduction to Deep Learning & Neural Networks with Keras | COURSERA (IBM) | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
+| 3. Deep Learning with Keras and Tensorflow | COURSERA (IBM) | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
 
-> 🏅 *Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
+Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 > *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 
 ________________________________________
 
-💼 From Finance to AI
-Then (Past)	Now (Future)
-💼 Treasury & Liquidity	🤖 AI Engineer & Machine Learning
-📈 Risk & Portfolio Analysis	📊 Predictive Modeling
-🧮 Excel & VBA Automation	🐍 Python, Pandas, Scikit-learn
-🧠 Decision Support Systems	🧠 Neural Networks, NLP, IoT, Deep learning
-________________________________________
-🚧 Current Focus
-•	🧑‍💻 Building real-world AI projects (e.g. Stock Prediction, Clustering, NLP)
-•	📊 Data Visualization Dashboards with Streamlit
-•	🔬 Model Evaluation and MLOps Basics
-•	📦 Git/GitHub version control and collaboration
-•	🧠 Preparing for Independent Study
-________________________________________
-📌 Goals
-•	✅ Master key AI techniques through hands-on projects
-•	🔜 Transition into a full-time role in AI Engineering or Data Science
-•	🎓 Graduate with strong research and portfolio
-•	🌱 Contribute to open-source AI/ML communities
-________________________________________
-🧠 Motto
-“It’s never too late to reinvent yourself. Keep learning, keep building.”
-________________________________________
-📫 Let’s connect!
-🔗 LinkedIn • 📬 Email patcharaph@gmail.com • 🛠️ More projects coming soon...
+## From Finance to AI
+
+| Then (Past)                  | Now (Future)                    |
+|-----------------------------|---------------------------------|
+| Treasury & Liquidity        | AI Engineering & Machine Learning |
+| Risk & Portfolio Analysis   | Predictive Modeling             |
+| Excel & VBA Automation      | Python, Pandas, scikit-learn    |
+| Decision Support Systems    | Neural Networks, NLP, IoT, Deep Learning |
+
+---
+
+## Current Focus
+
+- Agentic AI
+- Building real-world AI projects (e.g., stock prediction, clustering, NLP)  
+- Data visualization with Streamlit  
+- Model evaluation and MLOps fundamentals  
+- Git/GitHub version control and collaboration  
+- Preparation for Independent Study
+
+---
+
+## My Projects
+
+Below are suggested project anchors aligned with my background in finance and current AI studies. Repositories will be linked as they are published.
+
+1. Finance-Agent (Research/Prototype)  
+   - An agentic workflow for equity analysis: data ingestion, technical indicators, risk metrics, planning/reflection loops, and structured outputs.  
+   - Tech: Python, pandas, TA-Lib, scikit-learn, FastAPI/Streamlit.
+
+2. SET Quantitative Analysis  
+   - End-to-end pipeline for SET50: feature engineering, clustering, Random Forest baseline, and Golden Cross backtesting.  
+   - Tech: Python, scikit-learn, backtesting.py, matplotlib.
+
+3. AI Candlestick Analyst  
+   - Image-based candlestick pattern detection with a retrieval-augmented explanation layer and JSON schema outputs.  
+   - Tech: Python, OpenCV, PyTorch/TensorFlow (optional), Streamlit.
+
+4. Time-Series Forecasting with Transformers  
+   - Transformer-based forecasting for sector indices; comparison against ARIMA/LSTM baselines and error analysis.  
+   - Tech: Python, PyTorch/TensorFlow, Optuna.
+
+---
+
+## Goals
+
+- Master core AI techniques through hands-on projects  
+- Transition into a full-time role in AI Engineering or Data Science  
+- Complete the master’s degree with a strong research portfolio  
+- Contribute to open-source AI/ML communities
+
+---
+
+## Contact
+
+- Email: patcharaph@gmail.com  
+- LinkedIn: [add your profile link here]
