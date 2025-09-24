@@ -68,9 +68,9 @@ Here are some of the certifications I have earned during my learning journey:
 | 16. Research Seminar I in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1aHQ8KT9KyRD222oEWWZUpufBBTiGYfcg/view?usp=sharing) |
 | 17. Research Seminar II in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1J-o68vJbMFOBT249OEfObvIvyIHfu3QX/view?usp=sharing) |
 | 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | xx Sep 2025 | [View Certificate]() |
-| Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
-| Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
-| Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
+| 1. Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
+| 2. Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
+| 3. Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
 | 1. Machine Learning with Python | COURSERA (IBM) | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
 | 2. Introduction to Deep Learning & Neural Networks with Keras | COURSERA (IBM) | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
 | 3. Deep Learning with Keras and Tensorflow | COURSERA (IBM) | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
@@ -136,4 +136,5 @@ Below are suggested project anchors aligned with my background in finance and cu
 ## Contact
 
 - Email: patcharaph@gmail.com  
-- LinkedIn: [add your profile link here]
+- LinkedIn: www.linkedin.com/in/patcharaph
+
