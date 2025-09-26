@@ -74,8 +74,10 @@ Here are some of the certifications I have earned during my learning journey:
 | 1. Machine Learning with Python | COURSERA (IBM) | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
 | 2. Introduction to Deep Learning & Neural Networks with Keras | COURSERA (IBM) | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
 | 3. Deep Learning with Keras and Tensorflow | COURSERA (IBM) | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
+| 4. Introduction to Neural Networks and PyTorch| COURSERA (IBM) | 26 Sep 2025 | [View Certificate](https://drive.google.com/file/d/14rcKMh6VFzVG__XeXJGuNNuy81xGZ2XD/view?usp=sharing) |
 
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
+
 > *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 
 ________________________________________
