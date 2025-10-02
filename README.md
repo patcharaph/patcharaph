@@ -77,6 +77,7 @@ Here are some of the certifications I have earned during my learning journey:
 | 4. Introduction to Neural Networks and PyTorch| COURSERA (IBM) | 26 Sep 2025 | [View Certificate](https://drive.google.com/file/d/14rcKMh6VFzVG__XeXJGuNNuy81xGZ2XD/view?usp=sharing) |
 | 5. Deep Learning with PyTorch| COURSERA (IBM) | 29 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1r4dVQqDtAsBoc2cVDlkpY0VEKTYxdjFC/view?usp=sharing) |
 | 6. AI Capstone Project with Deep Learning| COURSERA (IBM) | 1 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1FGWemBpo-NG7o2GqTYLKEOLv-wsOJXjl/view?usp=sharing) |
+| 7. Generative AI and LLMs: Architecture and Data Preparation| COURSERA (IBM) | 2 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1IePVZSabdRESIAaC4QGd91v0CXws1TNt/view?usp=sharing) |
 
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 
