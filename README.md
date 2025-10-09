@@ -17,7 +17,10 @@ ____________
 - Major: Applied AI  
 - Total Courses: 30 credits (Core: 18 | Electives: 12)
 
-**Progress:** Completed 18 out of 30 subjects
+**Status:**  
+- Completed **Core Courses (18 credits)** and received the academic certificate **“Applied AI”**
+- Continuing remaining elective courses and Independent Study (IS)
+
 
 ✅ Courses Completed:
 1.	Applications of Artificial Intelligence: Theories and Innovations
@@ -45,8 +48,12 @@ ____________
 
  **Balancing full-time work and study through TUXSA has been challenging yet incredibly rewarding.**
 ________________________________________
-## 📜 Certificates
+## 📜 Professional Certificates
 Here are some of the certifications I have earned during my learning journey:
+
+### TUXSA – Thammasat University (SkillLane)
+- Certificate in **Applied AI** (Core Courses Completed) [View Certificate](https://drive.google.com/file/d/1ruIFSDse_uwxPXKf9FlZLIT2KdECF4mB/view?usp=sharing)
+
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
@@ -67,10 +74,14 @@ Here are some of the certifications I have earned during my learning journey:
 | 15. Research Methodology in Applied Artificial Intelligence | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1dgXZHjNtUZIJbITSYlqLwiEfaVKW2p8g/view?usp=sharing) |
 | 16. Research Seminar I in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1aHQ8KT9KyRD222oEWWZUpufBBTiGYfcg/view?usp=sharing) |
 | 17. Research Seminar II in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1J-o68vJbMFOBT249OEfObvIvyIHfu3QX/view?usp=sharing) |
-| 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | xx Sep 2025 | [View Certificate]() |
-| 1. Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
-| 2. Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
-| 3. Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
+| 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1_YxCuQRJvhpYYJVd90dNAM439kgyvVuj/view?usp=sharing) |
+
+### IBM – Coursera
+**IBM AI Engineering Professional Certificate** *(13-course specialization)*  
+Completed **9 of 13 courses**, including: 
+
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
 | 1. Machine Learning with Python | COURSERA (IBM) | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
 | 2. Introduction to Deep Learning & Neural Networks with Keras | COURSERA (IBM) | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
 | 3. Deep Learning with Keras and Tensorflow | COURSERA (IBM) | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
@@ -79,8 +90,16 @@ Here are some of the certifications I have earned during my learning journey:
 | 6. AI Capstone Project with Deep Learning| COURSERA (IBM) | 1 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1FGWemBpo-NG7o2GqTYLKEOLv-wsOJXjl/view?usp=sharing) |
 | 7. Generative AI and LLMs: Architecture and Data Preparation| COURSERA (IBM) | 2 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1IePVZSabdRESIAaC4QGd91v0CXws1TNt/view?usp=sharing) |
 | 8. Gen AI Foundational Models for NLP & Language Understanding| COURSERA (IBM) | 5 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1xSAiYpy4lA92ZJGUiT8u3QVINwB2T1ge/view?usp=sharing) |
+| 9. Generative AI Language Modeling with Transformers| COURSERA (IBM) | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1VCCUONFbCD6EC1f3mTYrCkp2lN1qbnsu/view?usp=sharing) |
 
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
+
+Additional courses: 
+
+| 1. Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
+| 2. Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
+| 3. Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
+
 
 > *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
 
