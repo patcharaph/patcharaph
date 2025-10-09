@@ -95,7 +95,8 @@ Completed **9 of 13 courses**, including:
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 
 Additional courses: 
-
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
 | 1. Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
 | 2. Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
 | 3. Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
