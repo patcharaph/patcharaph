@@ -78,7 +78,7 @@ Here are some of the certifications I have earned during my learning journey:
 
 ### IBM – Coursera
 **IBM AI Engineering Professional Certificate** *(13-course specialization)*  
-Completed **9 of 13 courses**, including: 
+Completed **10 of 13 courses**, including: 
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
@@ -91,6 +91,7 @@ Completed **9 of 13 courses**, including:
 | 7. Generative AI and LLMs: Architecture and Data Preparation| COURSERA (IBM) | 2 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1IePVZSabdRESIAaC4QGd91v0CXws1TNt/view?usp=sharing) |
 | 8. Gen AI Foundational Models for NLP & Language Understanding| COURSERA (IBM) | 5 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1xSAiYpy4lA92ZJGUiT8u3QVINwB2T1ge/view?usp=sharing) |
 | 9. Generative AI Language Modeling with Transformers| COURSERA (IBM) | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1VCCUONFbCD6EC1f3mTYrCkp2lN1qbnsu/view?usp=sharing) |
+| 10. Generative AI Engineering and Fine-Tuning Transformers| COURSERA (IBM) | 13 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1aLf-4qeDyMJIcuGZ1LE_aa4ZW4vU7NgE/view?usp=sharing) |
 
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 
