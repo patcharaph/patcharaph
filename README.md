@@ -22,7 +22,7 @@ ____________
 - Continuing remaining elective courses and Independent Study (IS)
 
 
-✅ Courses Completed:
+✅ Core Courses Completed:
 1.	Applications of Artificial Intelligence: Theories and Innovations
 2.	Computational Mathematics: Discrete Mathematics
 3.	Computational Mathematics: Probability
@@ -78,7 +78,7 @@ Here are some of the certifications I have earned during my learning journey:
 
 ### IBM – Coursera
 **IBM AI Engineering Professional Certificate** *(13-course specialization)*  
-Completed **11 of 13 courses**, including: 
+Completed **12 of 13 courses**, including: 
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
@@ -93,6 +93,7 @@ Completed **11 of 13 courses**, including:
 | 9. Generative AI Language Modeling with Transformers| COURSERA (IBM) | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1VCCUONFbCD6EC1f3mTYrCkp2lN1qbnsu/view?usp=sharing) |
 | 10. Generative AI Engineering and Fine-Tuning Transformers| COURSERA (IBM) | 13 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1aLf-4qeDyMJIcuGZ1LE_aa4ZW4vU7NgE/view?usp=sharing) |
 | 11. Generative AI Advance Fine-Tuning for LLMs| COURSERA (IBM) | 18 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1j2NaDPhO2AcQMPlfHWhXh5MPpar9KBSY/view?usp=sharing) |
+| 12. Fundamentals of AI Agents Using RAG and LangChain| COURSERA (IBM) | 21 Oct 2025 | [View Certificate](https://drive.google.com/file/d/16EWBuGW2ifMOyEcRYJv24_-BTs_0omzv/view?usp=sharing) |
 
 Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
 
