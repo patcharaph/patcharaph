@@ -78,8 +78,8 @@ Here are some of the certifications I have earned during my learning journey:
 
 ### IBM – Coursera
 **IBM AI Engineering Professional Certificate** *(13-course specialization)* 
-IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate 13 course series | Completed: October 29, 2025 | [View Certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
-Completed **13 of 13 courses**, including: 
+- IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate 13 course series | Completed: October 29, 2025 | [View Certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
+- Completed **13 of 13 courses**, including: 
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
@@ -98,13 +98,13 @@ Completed **13 of 13 courses**, including:
 | 13. Project Generative AI Applications with RAG and LangChain| COURSERA (IBM) | 29 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1rHo-dCbYa-wi9p4gLRMzcApIeq-eg_Vg/view?usp=sharing) |
 
 Currently also enrolled in the **Building AI Agents and Agentic Workflows Specialization** (Coursera, 3-course series).
--Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen)
+- Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen)
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
 | 1. Fundamentals of Building AI Agents| COURSERA (IBM) | xxx | [View Certificate]() |
 | 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | xxx | [View Certificate]() |
-| 3.Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | xxx | [View Certificate]() |
+| 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | xxx | [View Certificate]() |
 
 
 Additional courses: 
