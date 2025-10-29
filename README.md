@@ -77,8 +77,9 @@ Here are some of the certifications I have earned during my learning journey:
 | 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1_YxCuQRJvhpYYJVd90dNAM439kgyvVuj/view?usp=sharing) |
 
 ### IBM – Coursera
-**IBM AI Engineering Professional Certificate** *(13-course specialization)*  
-Completed **12 of 13 courses**, including: 
+**IBM AI Engineering Professional Certificate** *(13-course specialization)* 
+IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate 13 course series | Completed: October 29, 2025 | [View Certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
+Completed **13 of 13 courses**, including: 
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
@@ -94,8 +95,14 @@ Completed **12 of 13 courses**, including:
 | 10. Generative AI Engineering and Fine-Tuning Transformers| COURSERA (IBM) | 13 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1aLf-4qeDyMJIcuGZ1LE_aa4ZW4vU7NgE/view?usp=sharing) |
 | 11. Generative AI Advance Fine-Tuning for LLMs| COURSERA (IBM) | 18 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1j2NaDPhO2AcQMPlfHWhXh5MPpar9KBSY/view?usp=sharing) |
 | 12. Fundamentals of AI Agents Using RAG and LangChain| COURSERA (IBM) | 21 Oct 2025 | [View Certificate](https://drive.google.com/file/d/16EWBuGW2ifMOyEcRYJv24_-BTs_0omzv/view?usp=sharing) |
+| 13. Project Generative AI Applications with RAG and LangChain| COURSERA (IBM) | 29 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1rHo-dCbYa-wi9p4gLRMzcApIeq-eg_Vg/view?usp=sharing) |
 
-Currently also enrolled in the **IBM AI Engineering Professional Certificate** (Coursera, 13-course series).
+Currently also enrolled in the **Building AI Agents and Agentic Workflows Specialization** (Coursera, 3-course series).
+Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen)
+| 1. Fundamentals of Building AI Agents| COURSERA (IBM) | xxx | [View Certificate]() |
+| 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | xxx | [View Certificate]() |
+| 3.Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | xxx | [View Certificate]() |
+
 
 Additional courses: 
 | Certificate | Issued By | Date | Link |
