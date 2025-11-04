@@ -102,7 +102,7 @@ Currently also enrolled in the **Building AI Agents and Agentic Workflows Specia
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
-| 1. Fundamentals of Building AI Agents| COURSERA (IBM) | xxx | [View Certificate]() |
+| 1. Fundamentals of Building AI Agents| COURSERA (IBM) | 4 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1nAol2B0XAClfRWRxSCmHcRZb-cmiA__Q/view?usp=sharing) |
 | 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | xxx | [View Certificate]() |
 | 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | xxx | [View Certificate]() |
 
