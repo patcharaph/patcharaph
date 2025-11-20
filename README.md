@@ -3,7 +3,7 @@
 A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
 ________________________________________
 ## My Story
-I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included liquidity management, bond trading, and credit facilities provide to Financial institution.
+I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included Liquidity management, Bond trading, and Credit facilities provide to Financial institution.
 
 
 Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
@@ -97,14 +97,14 @@ Here are some of the certifications I have earned during my learning journey:
 | 12. Fundamentals of AI Agents Using RAG and LangChain| COURSERA (IBM) | 21 Oct 2025 | [View Certificate](https://drive.google.com/file/d/16EWBuGW2ifMOyEcRYJv24_-BTs_0omzv/view?usp=sharing) |
 | 13. Project Generative AI Applications with RAG and LangChain| COURSERA (IBM) | 29 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1rHo-dCbYa-wi9p4gLRMzcApIeq-eg_Vg/view?usp=sharing) |
 
-Currently also enrolled in the **Building AI Agents and Agentic Workflows Specialization** (Coursera, 3-course series).
+Completed the **Building AI Agents and Agentic Workflows Specialization** (Coursera, 3-course series).
 - Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen)
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
 | 1. Fundamentals of Building AI Agents| COURSERA (IBM) | 4 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1nAol2B0XAClfRWRxSCmHcRZb-cmiA__Q/view?usp=sharing) |
 | 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | 11 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1BCEVpjBCaEcfXuM-DqulUVGlPCaadf0d/view?usp=sharing) |
-| 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | xxx | [View Certificate]() |
+| 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | 20 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1jml0rrBKKAzFbYDDBTmVyQRaP4Ru5gdp/view?usp=sharing) |
 
 
 Additional courses: 
@@ -126,7 +126,7 @@ ________________________________________
 | Treasury & Liquidity        | AI Engineering & Machine Learning |
 | Risk & Portfolio Analysis   | Predictive Modeling             |
 | Excel & VBA Automation      | Python, Pandas, scikit-learn    |
-| Decision Support Systems    | Neural Networks, NLP, IoT, Deep Learning |
+| Decision Support Systems    | Neural Networks, NLP, IoT, Deep Learning, RAG, Agentic AI |
 
 ---
 
