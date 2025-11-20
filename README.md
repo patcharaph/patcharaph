@@ -97,8 +97,8 @@ Here are some of the certifications I have earned during my learning journey:
 | 12. Fundamentals of AI Agents Using RAG and LangChain| COURSERA (IBM) | 21 Oct 2025 | [View Certificate](https://drive.google.com/file/d/16EWBuGW2ifMOyEcRYJv24_-BTs_0omzv/view?usp=sharing) |
 | 13. Project Generative AI Applications with RAG and LangChain| COURSERA (IBM) | 29 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1rHo-dCbYa-wi9p4gLRMzcApIeq-eg_Vg/view?usp=sharing) |
 
-Completed the **Building AI Agents and Agentic Workflows Specialization** (Coursera, 3-course series).
-- Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen)
+**Building AI Agents and Agentic Workflows Specialization** 
+- Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen) (Coursera, 3-course series).| Completed: November 20, 2025 | [View Certificate](https://drive.google.com/file/d/1Qu9y1TXruUZFqanESZ_40a9MRSdNQ3BJ/view?usp=sharing)
 
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
