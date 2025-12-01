@@ -141,25 +141,26 @@ ________________________________________
 
 ---
 
-## My Projects
+## My Key Projects
 
 Below are suggested project anchors aligned with my background in finance and current AI studies. Repositories will be linked as they are published.
 
-1. Finance-Agent (Research/Prototype)  
-   - An agentic workflow for equity analysis: data ingestion, technical indicators, risk metrics, planning/reflection loops, and structured outputs.  
-   - Tech: Python, pandas, TA-Lib, scikit-learn, FastAPI/Streamlit.
+1. Robust Finance Research System (Agentic AI) | Python, LangGraph, LangChain, OpenAI API  
+   - Developed an autonomous multi-agent system to automate financial research for SET50 stocks, bridging deep financial expertise with advanced AI agents.
+   - Orchestrated specialized agents (Researcher, Analyst, Writer) using LangGraph to gather market data, perform technical analysis, and generate comprehensive investment reports without human intervention.
 
-2. SET Quantitative Analysis  
-   - End-to-end pipeline for SET50: feature engineering, clustering, Random Forest baseline, and Golden Cross backtesting.  
-   - Tech: Python, scikit-learn, backtesting.py, matplotlib.
+2. Thai Labor Law RAG Q&A Bot | Python, RAG, ChromaDB, LLMs  
+   - Built a Retrieval-Augmented Generation (RAG) system to accurately answer complex legal questions based on Thai law documents.  
+   - Implemented ChromaDB for vector storage and semantic search, ensuring high precision in retrieving relevant legal contexts to hallucination-free responses.
 
-3. AI Candlestick Analyst  
-   - Image-based candlestick pattern detection with a retrieval-augmented explanation layer and JSON schema outputs.  
-   - Tech: Python, OpenCV, PyTorch/TensorFlow (optional), Streamlit.
-
-4. Time-Series Forecasting with Transformers  
-   - Transformer-based forecasting for sector indices; comparison against ARIMA/LSTM baselines and error analysis.  
-   - Tech: Python, PyTorch/TensorFlow, Optuna.
+3. Thai Street Food Image Classifier | Python, TensorFlow/Keras, CNN, Computer Vision  
+   - Designed and trained a Convolutional Neural Network (CNN) model to identify various Thai street food dishes with high accuracy.  
+   - Applied data augmentation techniques and hyperparameter tuning to optimize model performance and generalization.
+     
+4. SET50 Stock Price Prediction Pipeline | Python, XGBoost, Scikit-learn, yfinance 
+   - Engineered a robust CLI-based prediction tool for SET50 tickers, featuring leakage-aware data pipelines (split-then-scale) to ensure rigorous time-series validation.
+   - Integrated multiple regression models (XGBoost, Random Forest, Linear/Ridge/Lasso) with automated hyperparameter tuning and walk-forward expanding-window validation.
+   - Implemented advanced feature engineering (RSI, MACD, Bollinger Bands, Lagged features) and comprehensive diagnostic reporting (RMSE, Directional Accuracy, Feature Importance plots).  
 
 ---
 
