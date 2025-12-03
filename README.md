@@ -106,6 +106,20 @@ Here are some of the certifications I have earned during my learning journey:
 | 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | 11 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1BCEVpjBCaEcfXuM-DqulUVGlPCaadf0d/view?usp=sharing) |
 | 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | 20 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1jml0rrBKKAzFbYDDBTmVyQRaP4Ru5gdp/view?usp=sharing) |
 
+### University of Michigan – Coursera  
+**AI for Mechanical Engineers Specialization** (3-course series)  
+
+This specialization is designed to help mechanical engineering professionals harness the power of artificial intelligence in their practice. The program provides a comprehensive foundation in AI applications essential to modern engineering domains—empowering professionals to lead the integration of AI technologies across fields such as design optimization, autonomous systems, energy systems, and biomedical innovation.
+
+**Applied Learning Project:**  
+Learners apply AI tools and techniques to address real-world mechanical and industrial challenges—enhancing design creativity, improving energy efficiency, and advancing biomedical applications through hands-on exercises and individual projects.
+
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
+| 1. AI for Design and Optimization| COURSERA | 3 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1044Fy_t-SsDGj8aZHi5B-vNW6--ROwrB/view?usp=sharing) |
+| 2. AI for Autonomous Vehicles and Robotics| COURSERA | xxxx 2025 | [View Certificate]() |
+| 3. AI for Energy and Biomedical Applications| COURSERA | xxxx 2025 | [View Certificate]() |
+
 
 Additional courses: 
 | Certificate | Issued By | Date | Link |
