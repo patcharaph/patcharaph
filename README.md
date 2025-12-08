@@ -117,7 +117,7 @@ Learners apply AI tools and techniques to address real-world mechanical and indu
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
 | 1. AI for Design and Optimization| COURSERA | 3 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1044Fy_t-SsDGj8aZHi5B-vNW6--ROwrB/view?usp=sharing) |
-| 2. AI for Autonomous Vehicles and Robotics| COURSERA | xxxx 2025 | [View Certificate]() |
+| 2. AI for Autonomous Vehicles and Robotics| COURSERA | 8 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1ZAr5W6LNb3_Q1oCFl4LocLPVaJIdpTgS/view?usp=sharing) |
 | 3. AI for Energy and Biomedical Applications| COURSERA | xxxx 2025 | [View Certificate]() |
 
 
