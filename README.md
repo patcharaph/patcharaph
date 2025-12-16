@@ -148,9 +148,6 @@ ________________________________________
 
 - Agentic AI
 - Building real-world AI projects (e.g., stock prediction, clustering, NLP)  
-- Data visualization with Streamlit  
-- Model evaluation and MLOps fundamentals  
-- Git/GitHub version control and collaboration  
 - Preparation for Independent Study
 
 ---
@@ -158,6 +155,28 @@ ________________________________________
 ## My Key Projects
 
 Below are suggested project anchors aligned with my background in finance and current AI studies. Repositories will be linked as they are published.
+
+### FinMind – Wealth Management Advisor  
+
+FinMind is a **solo-developed web application** for personal wealth management, designed to provide an all-in-one dashboard for tracking financial health. The platform covers assets, liabilities, cash flows, and advisory insights, combining traditional financial analysis with **rule-based logic** and optional **LLM-powered recommendations**.
+
+**Key Capabilities**
+- Net worth and asset/liability analysis  
+- Income and expense tracking with categorized summaries  
+- Advisory insights based on user financial data  
+- Modular and extensible architecture for future AI features  
+
+**Technology Stack**
+- Frontend: HTML, Tailwind CSS, JavaScript  
+- Backend (optional): Node.js, Express  
+- Database: PostgreSQL  
+- AI: Optional LLM integration (OpenAI / OpenRouter)  
+
+**Highlight**
+- Flagship solo project demonstrating full-stack development  
+- Integrates deep finance domain expertise with applied AI engineering
+
+### Other Key Projects (Planned / In Progress)
 
 1. Robust Finance Research System (Agentic AI) | Python, LangGraph, LangChain, OpenAI API  
    - Developed an autonomous multi-agent system to automate financial research for SET50 stocks, bridging deep financial expertise with advanced AI agents.
