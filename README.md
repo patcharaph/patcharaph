@@ -120,6 +120,34 @@ Learners apply AI tools and techniques to address real-world mechanical and indu
 | 2. AI for Autonomous Vehicles and Robotics| COURSERA | 8 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1ZAr5W6LNb3_Q1oCFl4LocLPVaJIdpTgS/view?usp=sharing) |
 | 3. AI for Energy and Biomedical Applications| COURSERA | 11 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1C_HkpFExl4cMFu2b4Jt-9i2U4SO0RZAc/view?usp=sharing) |
 
+### IBM Full Stack Software Developer Professional Certificate  
+**Provider:** IBM (Coursera) | **Format:** Professional Certificate (15-course series)  
+**Status:** Currently Enrolled
+
+This professional certificate prepares learners for a career as a **Full Stack and Cloud Native Software Developer**, covering end-to-end application development from front-end and back-end to cloud deployment. The program emphasizes job-ready skills, modern development practices, and optional integration of **generative AI tools** in software engineering workflows.
+
+**Core Skills & Technologies**
+- Front-end & Back-end Development: HTML, CSS, JavaScript, React, Node.js  
+- Cloud & DevOps: Cloud foundations, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio  
+- Backend & Data: Databases, NoSQL, Django ORM  
+- Architecture: Microservices, Serverless Computing  
+- Security & UI: Application Security, Bootstrap  
+- Collaboration & Tooling: GitHub, Cloud Native methodologies  
+
+**Applied Learning Projects**
+- Static web pages hosted on Cloud Object Storage  
+- Interactive web applications using HTML, CSS, and JavaScript  
+- AI-enabled application deployed with CI/CD and NoSQL backend  
+- Full Stack application with Node.js backend and React frontend  
+- Containerized applications using Docker and Kubernetes managed via OpenShift  
+- Python applications packaged and deployed for production  
+- Database-driven web applications using Django ORM and Bootstrap  
+- Microservices and Serverless-based cloud applications  
+- Scalable Cloud Native Full Stack application integrating multiple technologies  
+
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
+| 1. Introduction to Software Engineering | COURSERA | 24 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1QhTc9aszeS6upKZ5pBXGDuHA-s4Q9E4S/view?usp=sharing) |
 
 Additional courses: 
 | Certificate | Issued By | Date | Link |
