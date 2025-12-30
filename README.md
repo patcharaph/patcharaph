@@ -148,6 +148,8 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | Certificate | Issued By | Date | Link |
 |-------------|-----------|------|------|
 | 1. Introduction to Software Engineering | COURSERA | 24 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1QhTc9aszeS6upKZ5pBXGDuHA-s4Q9E4S/view?usp=sharing) |
+| 2. Introduction to Cloud Computing | COURSERA | 30 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1a-xz0V3DvwL_0Fi6rbFZ5i3SElf9v_GF/view?usp=sharing) |
+
 
 Additional courses: 
 | Certificate | Issued By | Date | Link |
