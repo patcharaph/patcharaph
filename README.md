@@ -150,6 +150,7 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | 1. Introduction to Software Engineering | COURSERA | 24 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1QhTc9aszeS6upKZ5pBXGDuHA-s4Q9E4S/view?usp=sharing) |
 | 2. Introduction to Cloud Computing | COURSERA | 30 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1a-xz0V3DvwL_0Fi6rbFZ5i3SElf9v_GF/view?usp=sharing) |
 | 3. Introduction to HTML, CSS, & JavaScript | COURSERA | 6 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1XYxumh528xhDmyIbghYc3GZE7SRv7_nw/view?usp=sharing) |
+| 4. Getting Started with Git and GitHub | COURSERA | 13 Jan 2026 | [View Certificate](https://drive.google.com/file/d/15JpcTgiF0sjvp78N8CBUAXbyd3MME_b-/view?usp=sharing) |
 
 
 Additional courses: 
