@@ -3,10 +3,12 @@
 A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
 ________________________________________
 ## My Story
-I'm Patchara, age 44, with a background in Food Process Engineering (KMITL, 2003) and an MBA in Financial Management (NIDA, 2008). I began my career in factory planning at Nestlé Thailand, then transitioned into finance, serving over 16 years at TSFC Securities as Assistant Vice President, Treasury Department. My responsibilities included Liquidity management, Bond trading, and Credit facilities provide to Financial institution.
 
+I am Patchara, ags 45, with an academic background in **Food Process Engineering** (King Mongkut’s Institute of Technology Ladkrabang) and an **MBA in Financial Management** (National Institute of Development Administration).
 
-Driven by a passion for continuous learning, in 2025 I decided to pivot towards technology—specifically Artificial Intelligence and IoT. While working full-time, I am now pursuing an online Master’s in AI & IoT at Thammasat University (TUXSA Program), dedicating my free time to building skills in programming, machine learning, and AI applications.
+I began my career in industrial planning at **Nestlé Thailand**, building a strong foundation in systems thinking, process optimization, and data-driven decision-making. I later transitioned into the financial sector, where I developed deep expertise in **treasury operations**, including liquidity management, bond trading, and credit facilities for financial institutions. This experience strengthened my analytical skills and my ability to design solutions for complex, real-world systems.
+
+Driven by a passion for continuous learning and a strong interest in building intelligent systems, I pivoted toward **Artificial Intelligence and the Internet of Things**. I am currently pursuing a **Master’s degree in AI & IoT (Applied AI)** at **Thammasat University (TUXSA Program)** while working full-time. My focus is on developing **production-ready AI solutions**, combining machine learning, software engineering, and cloud-native development to solve practical problems at scale.
 
 ________________________________________
 ## Academic Roadmap: Master’s Degree in AI & IoT
@@ -151,6 +153,7 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | 2. Introduction to Cloud Computing | COURSERA | 30 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1a-xz0V3DvwL_0Fi6rbFZ5i3SElf9v_GF/view?usp=sharing) |
 | 3. Introduction to HTML, CSS, & JavaScript | COURSERA | 6 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1XYxumh528xhDmyIbghYc3GZE7SRv7_nw/view?usp=sharing) |
 | 4. Getting Started with Git and GitHub | COURSERA | 13 Jan 2026 | [View Certificate](https://drive.google.com/file/d/15JpcTgiF0sjvp78N8CBUAXbyd3MME_b-/view?usp=sharing) |
+| 5. Developing Front-End Apps with React | COURSERA | 29 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1u1LpUXDqgjrYkMnR2DVQ6bp3DhI1DT9H/view?usp=sharing) |
 
 
 Additional courses: 
