@@ -8,7 +8,9 @@ I am Patchara, ags 45, with an academic background in **Food Process Engineering
 
 I began my career in industrial planning at **Nestlé Thailand**, building a strong foundation in systems thinking, process optimization, and data-driven decision-making. I later transitioned into the financial sector, where I developed deep expertise in **treasury operations**, including liquidity management, bond trading, and credit facilities for financial institutions. This experience strengthened my analytical skills and my ability to design solutions for complex, real-world systems.
 
-Driven by a passion for continuous learning and a strong interest in building intelligent systems, I pivoted toward **Artificial Intelligence and the Internet of Things**. I am currently pursuing a **Master’s degree in AI & IoT (Applied AI)** at **Thammasat University (TUXSA Program)** while working full-time. My focus is on developing **production-ready AI solutions**, combining machine learning, software engineering, and cloud-native development to solve practical problems at scale.
+A passionate and self-driven technologist, demonstrating a strong commitment to continuous upskilling through rigorous online AI engineering programs, all while successfully managing executive treasury responsibilities. Utilizes AI-Augmented Development workflows to rapidly prototype and build practical applications.
+My focus is on developing **production-ready AI solutions**, combining machine learning, software engineering, and cloud-native development to solve practical problems at scale.
+
 
 ________________________________________
 ## Academic Roadmap: Master’s Degree in AI & IoT
