@@ -157,6 +157,7 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | 4. Getting Started with Git and GitHub | COURSERA | 13 Jan 2026 | [View Certificate](https://drive.google.com/file/d/15JpcTgiF0sjvp78N8CBUAXbyd3MME_b-/view?usp=sharing) |
 | 5. Developing Front-End Apps with React | COURSERA | 29 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1u1LpUXDqgjrYkMnR2DVQ6bp3DhI1DT9H/view?usp=sharing) |
 | 6. Developing Back-End Apps with Node.js and Express | COURSERA | 16 Feb 2026 | [View Certificate](https://drive.google.com/file/d/174Zcf8cWwcj5JPDBpVGGVAbe8GhN4zWN/view?usp=sharing) |
+| 7. Python for Data Science, AI & Development | COURSERA | 28 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1u3FhepTY87YXVgcu3WeGj3kTfLalLhI5/view?usp=sharing) |
 
 
 Additional courses: 
