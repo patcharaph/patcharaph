@@ -84,8 +84,8 @@ Here are some of the certifications I have earned during my learning journey:
 **Artificial Intelligence Association of Thailand (AIAT)**  
 
 - Passed **Foundation AI (Theory)** Certification  
+- Participated in multiple **AI Hackathon (Practice Tracks)**
 - Selected for **Level 2 (Advanced Stage)**  
-- Participated in multiple **AI Hackathon (Practice Tracks)**  
 
 This program is a national initiative to develop high-competency AI engineers, covering core domains such as Machine Learning, Deep Learning, Computer Vision, NLP, and Retrieval-Augmented Generation (RAG).
 
