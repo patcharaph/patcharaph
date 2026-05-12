@@ -80,6 +80,21 @@ Here are some of the certifications I have earned during my learning journey:
 | 17. Research Seminar II in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1J-o68vJbMFOBT249OEfObvIvyIHfu3QX/view?usp=sharing) |
 | 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1_YxCuQRJvhpYYJVd90dNAM439kgyvVuj/view?usp=sharing) |
 
+### Super AI Engineer Program (Season 6) – AIAT Thailand  
+**Artificial Intelligence Association of Thailand (AIAT)**  
+
+- Passed **Foundation AI (Theory)** Certification  
+- Selected for **Level 2 (Advanced Stage)**  
+- Participated in multiple **AI Hackathon (Practice Tracks)**  
+
+This program is a national initiative to develop high-competency AI engineers, covering core domains such as Machine Learning, Deep Learning, Computer Vision, NLP, and Retrieval-Augmented Generation (RAG).
+
+**Hackathon Experience**
+- Agentic Pipeline Hackathon (AI Workflow & Multi-Agent Systems)  
+- From Data to Insight (Data Analysis & Applied AI)  
+
+Demonstrated hands-on experience in building **real-world AI solutions**, including data processing pipelines, model development, and AI-driven system design.
+
 ### IBM – Coursera
 **IBM AI Engineering Professional Certificate** *(13-course specialization)* 
 - IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate 13 course series | Completed: October 29, 2025 | [View Certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
