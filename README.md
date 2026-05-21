@@ -173,6 +173,7 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | 5. Developing Front-End Apps with React | COURSERA | 29 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1u1LpUXDqgjrYkMnR2DVQ6bp3DhI1DT9H/view?usp=sharing) |
 | 6. Developing Back-End Apps with Node.js and Express | COURSERA | 16 Feb 2026 | [View Certificate](https://drive.google.com/file/d/174Zcf8cWwcj5JPDBpVGGVAbe8GhN4zWN/view?usp=sharing) |
 | 7. Python for Data Science, AI & Development | COURSERA | 28 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1u3FhepTY87YXVgcu3WeGj3kTfLalLhI5/view?usp=sharing) |
+| 8. Developing AI Applications with Python and Flask | COURSERA | 21 May 2026 | [View Certificate](https://drive.google.com/file/d/18V83fc5K9wWU8tGfM3KNHOJe_8J-m-4k/view?usp=sharing) |
 
 
 Additional courses: 
