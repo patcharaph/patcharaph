@@ -175,6 +175,31 @@ This professional certificate prepares learners for a career as a **Full Stack a
 | 7. Python for Data Science, AI & Development | COURSERA | 28 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1u3FhepTY87YXVgcu3WeGj3kTfLalLhI5/view?usp=sharing) |
 | 8. Developing AI Applications with Python and Flask | COURSERA | 21 May 2026 | [View Certificate](https://drive.google.com/file/d/18V83fc5K9wWU8tGfM3KNHOJe_8J-m-4k/view?usp=sharing) |
 
+### Machine Learning for Trading Specialization  
+**Provider:** Coursera  
+
+A specialization focused on applying machine learning techniques to quantitative trading and financial market analysis. Covers topics such as financial data processing, feature engineering, algorithmic trading strategies, portfolio optimization, and predictive modeling for financial time series.
+
+**Key Areas**
+- Quantitative trading strategies  
+- Financial time-series analysis  
+- Portfolio optimization  
+- Risk-adjusted performance evaluation  
+- Machine learning applications in trading systems  
+
+---
+
+### Financial Engineering and Risk Management Specialization  
+**Provider:** Coursera  
+
+A professional specialization covering the mathematical and computational foundations of modern financial engineering and risk management. Focuses on derivatives, fixed income, portfolio risk, stochastic modeling, and quantitative finance methodologies.
+
+**Key Areas**
+- Fixed income and derivatives pricing  
+- Risk management frameworks  
+- Quantitative finance and stochastic processes  
+- Portfolio and market risk analysis  
+- Financial modeling and valuation techniques  
 
 Additional courses: 
 | Certificate | Issued By | Date | Link |
