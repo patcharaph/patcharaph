@@ -94,6 +94,12 @@ This program is a national initiative to develop high-competency AI engineers, c
 - From Data to Insight (Data Analysis & Applied AI)  
 
 Demonstrated hands-on experience in building **real-world AI solutions**, including data processing pipelines, model development, and AI-driven system design.
+| Certificate | Issued By | Date | Link |
+|-------------|-----------|------|------|
+| 1. Foundation AI (Theory) | AIAT | 18 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1tcEF8IdgrChaEq4P8X7-6sJ-FxGPbvxa/view?usp=sharing) |
+| 2. AI Hackathon (Practice-From Data to Insight) | AIAT | 21 Mar 2026 | [View Certificate](https://drive.google.com/file/d/1wSFJTHCbLKzy52Qz3H7jDaWGpGwurs_C/view?usp=sharing) |
+| 3. AI Hackathon (Practice-2026  Thai Election OCR Challenge) | AIAT | 27 Mar 2026 | [View Certificate](https://drive.google.com/file/d/1ipg8VV6-WLzNx5lqTC6TpvC19TyT4xAx/view?usp=sharing) |
+| 4. AI practitioner-604967| AIAT | 1 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1MzFptftW872Q7NsZrdSrT9ZE2QT7DewE/view?usp=sharing) |
 
 ### IBM – Coursera
 **IBM AI Engineering Professional Certificate** *(13-course specialization)* 
