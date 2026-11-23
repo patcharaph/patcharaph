@@ -62,8 +62,16 @@ Experience in securities markets and client-facing financial services.
 **Factory Planning — Nestlé Thailand (2003–2007)**  
 Experience in production planning and operational processes.
 
-**International knowledge exchange — Japan Securities Finance (JSF), Tokyo (July 2026)**  
-Professional exchange focused on securities financing, liquidity, collateral, and risk-management practices.
+## International Professional Experience
+
+**Japan Securities Finance (JSF) — Tokyo, Japan | July 15–24, 2026**  
+Participated in a professional knowledge-exchange visit focused on Japan's securities financing infrastructure and operational practices, including:
+
+- Securities lending, margin financing, and related market infrastructure.
+- Liquidity management and funding arrangements.
+- Collateral operations and risk management approaches.
+
+This was a **professional knowledge exchange**, not employment at JSF or a claim of implementing JSF systems.
 
 ## Education & Learning
 
