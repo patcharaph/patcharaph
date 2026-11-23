@@ -1,299 +1,89 @@
+# Hi, I'm Patchara
 
-# Hello, I'm Patchara
-A passionate lifelong learner making a bold career pivot from Finance to AI Engineer.
-________________________________________
-## My Story
-
-I am Patchara, ags 45, with an academic background in **Food Process Engineering** (King Mongkut’s Institute of Technology Ladkrabang) and an **MBA in Financial Management** (National Institute of Development Administration).
-
-I began my career in industrial planning at **Nestlé Thailand**, building a strong foundation in systems thinking, process optimization, and data-driven decision-making. I later transitioned into the financial sector, where I developed deep expertise in **treasury operations**, including liquidity management, bond trading, and credit facilities for financial institutions. This experience strengthened my analytical skills and my ability to design solutions for complex, real-world systems.
-
-A passionate and self-driven technologist, demonstrating a strong commitment to continuous upskilling through rigorous online AI engineering programs, all while successfully managing executive treasury responsibilities. Utilizes AI-Augmented Development workflows to rapidly prototype and build practical applications.
-My focus is on developing **production-ready AI solutions**, combining machine learning, software engineering, and cloud-native development to solve practical problems at scale.
-
-
-________________________________________
-## Academic Roadmap: Master’s Degree in AI & IoT
-Currently studying in the TUXSA program – an online master’s degree initiative by Thammasat University in collaboration with SkillLane.
-____________
-- Program: Master of Engineering in Artificial Intelligence and Internet of Things (International Program)  
-- University: Thammasat University (Online via TUXSA)  
-- Major: Applied AI  
-- Total Courses: 30 credits (Core: 18 | Electives: 12)
-
-**Status:**  
-- Completed **Core Courses (18 credits)** and received the academic certificate **“Applied AI”**
-- Continuing remaining elective courses and Independent Study (IS)
-
-
-✅ Core Courses Completed:
-1.	Applications of Artificial Intelligence: Theories and Innovations
-2.	Computational Mathematics: Discrete Mathematics
-3.	Computational Mathematics: Probability
-4.	Computational Mathematics: Linear Algebra
-5.	Machine Learning: Unsupervised Learning
-6.	Machine Learning: Deep Learning
-7.	Basic Programming with Python for AI
-8.	Advanced Programming with Python Libraries for AI
-9.	AI Applications with Python and AI Languages
-10.	Practical Development of AI Applications
-11.	Practical Development of Machine Learning Applications
-12.	Machine Learning: Supervised Learning
-13.	Principles of Artificial Intelligence Problem Solving and Search
-14.	Knowledge and Reasoning Logic and Uncertainty
-15.	Research Methodology in Applied Artificial Intelligence
-16.	Research Seminar I in Applied Artificial Intelligence
-17. Research Seminar II in Applied Artificial Intelligence
-18. Critical Thinking and EthicsLaw for Artificial Intelligence
-
-✅ Next Steps:
-•	Comprehensive Examination
-•	Independent Study (IS) or Thesis
-
- **Balancing full-time work and study through TUXSA has been challenging yet incredibly rewarding.**
-________________________________________
-## 📜 Professional Certificates
-Here are some of the certifications I have earned during my learning journey:
-
-### TUXSA – Thammasat University (SkillLane)
-- Certificate in **Applied AI** (Core Courses Completed) [View Certificate](https://drive.google.com/file/d/1ruIFSDse_uwxPXKf9FlZLIT2KdECF4mB/view?usp=sharing)
-
-
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Basic Programming with Python for AI | TUXSA | 25 Mar 2025 | [View Certificate](https://drive.google.com/file/d/19EyaKp2TO0sXIm8KTXs-kZy2R7BefawF/view?usp=sharing) |
-| 2. Computational Mathematics: Linear Algebra | TUXSA | 22 Apr 2025 | [View Certificate](https://drive.google.com/file/d/1r6hb3688x-JhllFRK_wOgu8r167ulKpw/view?usp=sharing) |
-| 3. Computational Mathematics: Probability | TUXSA | 30 Apr 2025 | [View Certificate](https://drive.google.com/file/d/1X5xiu3dfbs999GB_btH2dTNgZocCBne6/view?usp=sharing) |
-| 4. Computational Mathematics: Discrete Mathematics | TUXSA | 16 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1xdV-VoroErnBEUOWwais3DEP1GM4ROTe/view?usp=sharing) |
-| 5. Advanced Programming with Python Libraries for AI | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1CQb4HM-NEjV9PRIZWsRQARr6njPv7Sl4/view?usp=sharing) |
-| 6. Applications of Artificial Intelligence: Theories and Innovations | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1mfeOCAMBUaP2jP_DUsAPM-P1XER-3gXy/view?usp=sharing) |
-| 7. Practical Development of Machine Learning Applications | TUXSA | 10 Jun 2025 | [View Certificate](https://drive.google.com/file/d/1WJ_CJTUZh2zF8HUVzY6qm-3qDpzIghpQ/view?usp=sharing) |
-| 8. Machine Learning: Supervised Learning | TUXSA | 23 Jun 2025 | [View Certificate](https://drive.google.com/file/d/13wtelNrZgj9O5Qqqaq7JzDxAJyEC20bh/view?usp=sharing) |
-| 9. Machine Learning: Unsupervised Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/11WPox6FqBB4bV7ucZdLix5JLSA53gb57/view?usp=sharing) |
-| 10. Machine Learning: Deep Learning | TUXSA | 18 Jul 2025 | [View Certificate](https://drive.google.com/file/d/1eFt7aSA3xXvIR4SJgcKH5Thub_vyBIkv/view?usp=sharing) |
-| 11. AI Applications with Python and AI Languages | TUXSA | 6 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1-HBaEniOlDpW964MMvAHmz12oFgQ22ww/view?usp=sharing) |
-| 12. Practical Development of AI Applications | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1wAXUorj-HeOh7y1uNmFG67YQmUJN6SSE/view?usp=sharing) |
-| 13. Principles of Artificial Intelligence Problem Solving and Search | TUXSA | 14 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1iDThzwXDk-Xml4aS7ZBQeblJ5aV_I1Ef/view?usp=sharing) |
-| 14. Knowledge and Reasoning Logic and Uncertainty | TUXSA | 15 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1OeEUTbO-HU0XcmTVwfYC1i2fk55crYe9/view?usp=sharing) |
-| 15. Research Methodology in Applied Artificial Intelligence | TUXSA | 27 Aug 2025 | [View Certificate](https://drive.google.com/file/d/1dgXZHjNtUZIJbITSYlqLwiEfaVKW2p8g/view?usp=sharing) |
-| 16. Research Seminar I in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1aHQ8KT9KyRD222oEWWZUpufBBTiGYfcg/view?usp=sharing) |
-| 17. Research Seminar II in Applied Artificial Intelligence | TUXSA | 10 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1J-o68vJbMFOBT249OEfObvIvyIHfu3QX/view?usp=sharing) |
-| 18. Critical Thinking and EthicsLaw for Artificial Intelligence | TUXSA | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1_YxCuQRJvhpYYJVd90dNAM439kgyvVuj/view?usp=sharing) |
-
-### Super AI Engineer Program (Season 6) – AIAT Thailand  
-**Artificial Intelligence Association of Thailand (AIAT)**  
-
-- Passed **Foundation AI (Theory)** Certification  
-- Participated in multiple **AI Hackathon (Practice Tracks)**
-- Selected for **Level 2 (Advanced Stage)**  
-
-This program is a national initiative to develop high-competency AI engineers, covering core domains such as Machine Learning, Deep Learning, Computer Vision, NLP, and Retrieval-Augmented Generation (RAG).
-
-**Hackathon Experience**
-- Agentic Pipeline Hackathon (AI Workflow & Multi-Agent Systems)  
-- From Data to Insight (Data Analysis & Applied AI)  
-
-Demonstrated hands-on experience in building **real-world AI solutions**, including data processing pipelines, model development, and AI-driven system design.
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Foundation AI (Theory) | AIAT | 18 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1tcEF8IdgrChaEq4P8X7-6sJ-FxGPbvxa/view?usp=sharing) |
-| 2. AI Hackathon (Practice-From Data to Insight) | AIAT | 21 Mar 2026 | [View Certificate](https://drive.google.com/file/d/1wSFJTHCbLKzy52Qz3H7jDaWGpGwurs_C/view?usp=sharing) |
-| 3. AI Hackathon (Practice-2026  Thai Election OCR Challenge) | AIAT | 27 Mar 2026 | [View Certificate](https://drive.google.com/file/d/1ipg8VV6-WLzNx5lqTC6TpvC19TyT4xAx/view?usp=sharing) |
-| 4. AI practitioner-604967| AIAT | 1 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1MzFptftW872Q7NsZrdSrT9ZE2QT7DewE/view?usp=sharing) |
-
-### IBM – Coursera
-**IBM AI Engineering Professional Certificate** *(13-course specialization)* 
-- IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate 13 course series | Completed: October 29, 2025 | [View Certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
-- Completed **13 of 13 courses**, including: 
-
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Machine Learning with Python | COURSERA (IBM) | 16 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1q0Fhsq5nl6M0h5K2tUkM8X7LyvIMnh0p/view?usp=sharing) |
-| 2. Introduction to Deep Learning & Neural Networks with Keras | COURSERA (IBM) | 18 Sep 2025 | [View Certificate](https://drive.google.com/file/d/11iknGBx8i66Fil5KOH7O8UYGrl7RZJMT/view?usp=sharing) |
-| 3. Deep Learning with Keras and Tensorflow | COURSERA (IBM) | 23 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1Bnk73H_vPQLXp4qQgZwKELjlRBLyFW3K/view?usp=sharing) |
-| 4. Introduction to Neural Networks and PyTorch| COURSERA (IBM) | 26 Sep 2025 | [View Certificate](https://drive.google.com/file/d/14rcKMh6VFzVG__XeXJGuNNuy81xGZ2XD/view?usp=sharing) |
-| 5. Deep Learning with PyTorch| COURSERA (IBM) | 29 Sep 2025 | [View Certificate](https://drive.google.com/file/d/1r4dVQqDtAsBoc2cVDlkpY0VEKTYxdjFC/view?usp=sharing) |
-| 6. AI Capstone Project with Deep Learning| COURSERA (IBM) | 1 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1FGWemBpo-NG7o2GqTYLKEOLv-wsOJXjl/view?usp=sharing) |
-| 7. Generative AI and LLMs: Architecture and Data Preparation| COURSERA (IBM) | 2 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1IePVZSabdRESIAaC4QGd91v0CXws1TNt/view?usp=sharing) |
-| 8. Gen AI Foundational Models for NLP & Language Understanding| COURSERA (IBM) | 5 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1xSAiYpy4lA92ZJGUiT8u3QVINwB2T1ge/view?usp=sharing) |
-| 9. Generative AI Language Modeling with Transformers| COURSERA (IBM) | 9 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1VCCUONFbCD6EC1f3mTYrCkp2lN1qbnsu/view?usp=sharing) |
-| 10. Generative AI Engineering and Fine-Tuning Transformers| COURSERA (IBM) | 13 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1aLf-4qeDyMJIcuGZ1LE_aa4ZW4vU7NgE/view?usp=sharing) |
-| 11. Generative AI Advance Fine-Tuning for LLMs| COURSERA (IBM) | 18 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1j2NaDPhO2AcQMPlfHWhXh5MPpar9KBSY/view?usp=sharing) |
-| 12. Fundamentals of AI Agents Using RAG and LangChain| COURSERA (IBM) | 21 Oct 2025 | [View Certificate](https://drive.google.com/file/d/16EWBuGW2ifMOyEcRYJv24_-BTs_0omzv/view?usp=sharing) |
-| 13. Project Generative AI Applications with RAG and LangChain| COURSERA (IBM) | 29 Oct 2025 | [View Certificate](https://drive.google.com/file/d/1rHo-dCbYa-wi9p4gLRMzcApIeq-eg_Vg/view?usp=sharing) |
-
-**Building AI Agents and Agentic Workflows Specialization** 
-- Build Autonomous Applications with AI Agents. Master Agentic AI with multi-agent frameworks such as LangGraph, CrewAI, BeeAI, and AG2 (AutoGen) (Coursera, 3-course series).| Completed: November 20, 2025 | [View Certificate](https://drive.google.com/file/d/1Qu9y1TXruUZFqanESZ_40a9MRSdNQ3BJ/view?usp=sharing)
-
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Fundamentals of Building AI Agents| COURSERA (IBM) | 4 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1nAol2B0XAClfRWRxSCmHcRZb-cmiA__Q/view?usp=sharing) |
-| 2. Agentic AI with LangChain and LangGraph| COURSERA (IBM) | 11 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1BCEVpjBCaEcfXuM-DqulUVGlPCaadf0d/view?usp=sharing) |
-| 3. Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI| COURSERA (IBM) | 20 Nov 2025 | [View Certificate](https://drive.google.com/file/d/1jml0rrBKKAzFbYDDBTmVyQRaP4Ru5gdp/view?usp=sharing) |
-
-### University of Michigan – Coursera  
-**AI for Mechanical Engineers Specialization** (3-course series)  | Completed: December 11, 2025 | [View Certificate](https://drive.google.com/file/d/1vGK9FYWubNsxT9V_x1FG8Hy8fkIS4C9A/view?usp=sharing)
-
-This specialization is designed to help mechanical engineering professionals harness the power of artificial intelligence in their practice. The program provides a comprehensive foundation in AI applications essential to modern engineering domains—empowering professionals to lead the integration of AI technologies across fields such as design optimization, autonomous systems, energy systems, and biomedical innovation.
-
-**Applied Learning Project:**  
-Learners apply AI tools and techniques to address real-world mechanical and industrial challenges—enhancing design creativity, improving energy efficiency, and advancing biomedical applications through hands-on exercises and individual projects.
-
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. AI for Design and Optimization| COURSERA | 3 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1044Fy_t-SsDGj8aZHi5B-vNW6--ROwrB/view?usp=sharing) |
-| 2. AI for Autonomous Vehicles and Robotics| COURSERA | 8 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1ZAr5W6LNb3_Q1oCFl4LocLPVaJIdpTgS/view?usp=sharing) |
-| 3. AI for Energy and Biomedical Applications| COURSERA | 11 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1C_HkpFExl4cMFu2b4Jt-9i2U4SO0RZAc/view?usp=sharing) |
-
-### IBM Full Stack Software Developer Professional Certificate  
-**Provider:** IBM (Coursera) | **Format:** Professional Certificate (15-course series)  
-**Status:** Currently Enrolled
-
-This professional certificate prepares learners for a career as a **Full Stack and Cloud Native Software Developer**, covering end-to-end application development from front-end and back-end to cloud deployment. The program emphasizes job-ready skills, modern development practices, and optional integration of **generative AI tools** in software engineering workflows.
-
-**Core Skills & Technologies**
-- Front-end & Back-end Development: HTML, CSS, JavaScript, React, Node.js  
-- Cloud & DevOps: Cloud foundations, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio  
-- Backend & Data: Databases, NoSQL, Django ORM  
-- Architecture: Microservices, Serverless Computing  
-- Security & UI: Application Security, Bootstrap  
-- Collaboration & Tooling: GitHub, Cloud Native methodologies  
-
-**Applied Learning Projects**
-- Static web pages hosted on Cloud Object Storage  
-- Interactive web applications using HTML, CSS, and JavaScript  
-- AI-enabled application deployed with CI/CD and NoSQL backend  
-- Full Stack application with Node.js backend and React frontend  
-- Containerized applications using Docker and Kubernetes managed via OpenShift  
-- Python applications packaged and deployed for production  
-- Database-driven web applications using Django ORM and Bootstrap  
-- Microservices and Serverless-based cloud applications  
-- Scalable Cloud Native Full Stack application integrating multiple technologies  
-
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Introduction to Software Engineering | COURSERA | 24 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1QhTc9aszeS6upKZ5pBXGDuHA-s4Q9E4S/view?usp=sharing) |
-| 2. Introduction to Cloud Computing | COURSERA | 30 Dec 2025 | [View Certificate](https://drive.google.com/file/d/1a-xz0V3DvwL_0Fi6rbFZ5i3SElf9v_GF/view?usp=sharing) |
-| 3. Introduction to HTML, CSS, & JavaScript | COURSERA | 6 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1XYxumh528xhDmyIbghYc3GZE7SRv7_nw/view?usp=sharing) |
-| 4. Getting Started with Git and GitHub | COURSERA | 13 Jan 2026 | [View Certificate](https://drive.google.com/file/d/15JpcTgiF0sjvp78N8CBUAXbyd3MME_b-/view?usp=sharing) |
-| 5. Developing Front-End Apps with React | COURSERA | 29 Jan 2026 | [View Certificate](https://drive.google.com/file/d/1u1LpUXDqgjrYkMnR2DVQ6bp3DhI1DT9H/view?usp=sharing) |
-| 6. Developing Back-End Apps with Node.js and Express | COURSERA | 16 Feb 2026 | [View Certificate](https://drive.google.com/file/d/174Zcf8cWwcj5JPDBpVGGVAbe8GhN4zWN/view?usp=sharing) |
-| 7. Python for Data Science, AI & Development | COURSERA | 28 Apr 2026 | [View Certificate](https://drive.google.com/file/d/1u3FhepTY87YXVgcu3WeGj3kTfLalLhI5/view?usp=sharing) |
-| 8. Developing AI Applications with Python and Flask | COURSERA | 21 May 2026 | [View Certificate](https://drive.google.com/file/d/18V83fc5K9wWU8tGfM3KNHOJe_8J-m-4k/view?usp=sharing) |
-
-### Machine Learning for Trading Specialization  
-**Provider:** Coursera  
-
-A specialization focused on applying machine learning techniques to quantitative trading and financial market analysis. Covers topics such as financial data processing, feature engineering, algorithmic trading strategies, portfolio optimization, and predictive modeling for financial time series.
-
-**Key Areas**
-- Quantitative trading strategies  
-- Financial time-series analysis  
-- Portfolio optimization  
-- Risk-adjusted performance evaluation  
-- Machine learning applications in trading systems  
-
----
-
-### Financial Engineering and Risk Management Specialization  
-**Provider:** Coursera  
-
-A professional specialization covering the mathematical and computational foundations of modern financial engineering and risk management. Focuses on derivatives, fixed income, portfolio risk, stochastic modeling, and quantitative finance methodologies.
-
-**Key Areas**
-- Fixed income and derivatives pricing  
-- Risk management frameworks  
-- Quantitative finance and stochastic processes  
-- Portfolio and market risk analysis  
-- Financial modeling and valuation techniques  
-
-Additional courses: 
-| Certificate | Issued By | Date | Link |
-|-------------|-----------|------|------|
-| 1. Mini Course : GitHub for Beginner | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1gENLW0sKWoR7KWTpT2kd0ZI654iBFzUO/view?usp=sharing) |
-| 2. Data Analytics with Python | BORNTODEV | Aug 2025 | [View Certificate]() |
-| 3. Web Scraping with Python | BORNTODEV | Aug 2025 | [View Certificate](https://drive.google.com/file/d/1KYzlMeVXVilZEMj2j46IMjzI_mLXkbhE/view?usp=sharing) |
-
-
-> *More certificates coming soon as I continue my AI Engineer & Data Science journey.*
-
-________________________________________
-
-## From Finance to AI
-
-| Then (Past)                  | Now (Future)                    |
-|-----------------------------|---------------------------------|
-| Treasury & Liquidity        | AI Engineering & Machine Learning |
-| Risk & Portfolio Analysis   | Predictive Modeling             |
-| Excel & VBA Automation      | Python, Pandas, scikit-learn    |
-| Decision Support Systems    | Neural Networks, NLP, IoT, Deep Learning, RAG, Agentic AI |
-
----
-
-## Current Focus
-
-- Agentic AI
-- Building real-world AI projects (e.g., stock prediction, clustering, NLP)  
-- Preparation for Independent Study
-
----
-
-## My Key Projects
-
-Below are suggested project anchors aligned with my background in finance and current AI studies. Repositories will be linked as they are published.
-
-### FinMind – Wealth Management Advisor  
-
-FinMind is a **solo-developed web application** for personal wealth management, designed to provide an all-in-one dashboard for tracking financial health. The platform covers assets, liabilities, cash flows, and advisory insights, combining traditional financial analysis with **rule-based logic** and optional **LLM-powered recommendations**.
-
-**Key Capabilities**
-- Net worth and asset/liability analysis  
-- Income and expense tracking with categorized summaries  
-- Advisory insights based on user financial data  
-- Modular and extensible architecture for future AI features  
-
-**Technology Stack**
-- Frontend: HTML, Tailwind CSS, JavaScript  
-- Backend (optional): Node.js, Express  
-- Database: PostgreSQL  
-- AI: Optional LLM integration (OpenAI / OpenRouter)  
-
-**Highlight**
-- Flagship solo project demonstrating full-stack development  
-- Integrates deep finance domain expertise with applied AI engineering
-
-### Other Key Projects (Planned / In Progress)
-
-1. Robust Finance Research System (Agentic AI) | Python, LangGraph, LangChain, OpenAI API  
-   - Developed an autonomous multi-agent system to automate financial research for SET50 stocks, bridging deep financial expertise with advanced AI agents.
-   - Orchestrated specialized agents (Researcher, Analyst, Writer) using LangGraph to gather market data, perform technical analysis, and generate comprehensive investment reports without human intervention.
-
-2. Thai Labor Law RAG Q&A Bot | Python, RAG, ChromaDB, LLMs  
-   - Built a Retrieval-Augmented Generation (RAG) system to accurately answer complex legal questions based on Thai law documents.  
-   - Implemented ChromaDB for vector storage and semantic search, ensuring high precision in retrieving relevant legal contexts to hallucination-free responses.
-
-3. Thai Street Food Image Classifier | Python, TensorFlow/Keras, CNN, Computer Vision  
-   - Designed and trained a Convolutional Neural Network (CNN) model to identify various Thai street food dishes with high accuracy.  
-   - Applied data augmentation techniques and hyperparameter tuning to optimize model performance and generalization.
-     
-4. SET50 Stock Price Prediction Pipeline | Python, XGBoost, Scikit-learn, yfinance 
-   - Engineered a robust CLI-based prediction tool for SET50 tickers, featuring leakage-aware data pipelines (split-then-scale) to ensure rigorous time-series validation.
-   - Integrated multiple regression models (XGBoost, Random Forest, Linear/Ridge/Lasso) with automated hyperparameter tuning and walk-forward expanding-window validation.
-   - Implemented advanced feature engineering (RSI, MACD, Bollinger Bands, Lagged features) and comprehensive diagnostic reporting (RMSE, Directional Accuracy, Feature Importance plots).  
-
----
-
-## Goals
-
-- Master core AI techniques through hands-on projects  
-- Transition into a full-time role in AI Engineering or Data Science  
-- Complete the master’s degree with a strong research portfolio  
-- Contribute to open-source AI/ML communities
-
----
-
-## Contact
-
-- Email: patcharaph@gmail.com  
-- LinkedIn: www.linkedin.com/in/patcharaph
+**Applied AI & Agentic Workflow Developer | AI-Augmented Product Builder**
 
+*Exploring AI agents, modern AI tools, and practical software development — turning ideas into working applications.*
+
+I'm an independent developer based in Thailand with a background in treasury, financial markets, and business operations. I focus on **using AI tools and agents to build useful products**, automate workflows, and solve real-world problems across finance, productivity, small businesses, and creative work.
+
+Rather than limiting myself to one model or framework, I experiment with **agentic workflows, LLM APIs, retrieval-augmented generation (RAG), multimodal AI, and AI-assisted coding**. My approach is to choose the right tools for the problem, prototype quickly, evaluate the results, and keep improving.
+
+## What I Focus On
+
+- **AI agents and agentic workflows:** tool-using agents, research workflows, multi-step automation, and orchestration experiments.
+- **AI tool integration:** connecting LLMs, speech, vision, image-generation services, databases, and external APIs into applications.
+- **AI-augmented software development:** using coding assistants and agents for planning, implementation, debugging, testing, and iteration.
+- **Full-stack product building:** creating web and mobile prototypes with practical user workflows.
+- **Applied machine learning:** experimenting with predictive models, computer vision, and data-driven analysis.
+
+> **Learn by building. Experiment with AI. Create solutions that matter.**
+
+## Featured Projects
+
+Projects below are independent development and experimentation work; they are not presented as production-validated commercial systems.
+
+| Project | What I'm Exploring | Technologies |
+| --- | --- | --- |
+| **[FinMind](https://github.com/patcharaph/FinMind)** | Personal finance dashboards and AI-assisted financial insights | React, Vite, Express, SQLite, OpenRouter |
+| **[AI Privacy Guard](https://github.com/patcharaph/AI-Privacy-Guard)** | Detecting and obscuring faces and license plates in images | Next.js, FastAPI, MediaPipe, YOLO, OpenCV |
+| **[PropVisionAI](https://github.com/patcharaph/PropVisionAI)** | AI-assisted interior analysis, virtual staging, and renovation estimates | React, Express, Supabase, OpenRouter, Flux |
+| **[JodSi](https://github.com/patcharaph/JodSi)** | Thai speech transcription and AI-generated notes | Flutter, Supabase, Deepgram, OpenRouter |
+| **[Thai Law RAG Q&A Bot](https://github.com/patcharaph/Thai-Law-RAG-QA-Bot)** | Document retrieval and context-grounded answers from Thai legal materials | Python, Chroma, embeddings, LangChain, OpenRouter |
+| **[Global Macro Bot](https://github.com/patcharaph/Global-Macro-BOT)** | Experimental macroeconomic research and systematic portfolio analysis | Python, XGBoost, LLM APIs |
+
+### Agentic AI Experiments
+
+- **[Enterprise Finance Research – Agentic AI](https://github.com/patcharaph/Enterprise-Finance-Research-Agentic-AI)** — exploring agent-based financial research workflows.
+- **[Autonomous Agentic AI Stock Dashboard](https://github.com/patcharaph/Autonomous-Agentic-AI-Stock-Dashboard)** — experimenting with agentic analysis and financial dashboards.
+
+I'm also exploring AI-enabled tools for small businesses, content creation, and everyday productivity.
+
+## AI Tools & Development Stack
+
+| Area | Tools & Technologies |
+| --- | --- |
+| **AI-assisted development** | Cursor, GitHub Copilot, Windsurf, AI coding agents |
+| **Agents & LLM workflows** | Agentic AI, LangChain, LangGraph, RAG, prompt design, tool/API integration |
+| **AI model services** | OpenRouter and other model APIs; speech, vision, and generative-image services |
+| **Languages & frameworks** | Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI, Flutter |
+| **Data & ML** | SQL, SQLite, Supabase, Chroma, scikit-learn, XGBoost, TensorFlow, PyTorch, OpenCV |
+| **Workflow** | Git, GitHub, iterative prototyping, testing, and deployment experiments |
+
+I see AI agents and coding tools as **development collaborators**, not substitutes for defining the problem, validating outputs, or making engineering decisions.
+
+## Professional Background
+
+**Assistant Vice President, Treasury — TSFC Securities PCL (2008–Present)**  
+Experience in liquidity and funding management, fixed-income investments, securities financing, institutional credit facilities, and financial risk.
+
+**Marketing Officer — Bualuang Securities (2007–2008)**  
+Experience in securities markets and client-facing financial services.
+
+**Factory Planning — Nestlé Thailand (2003–2007)**  
+Experience in production planning and operational processes.
+
+**International knowledge exchange — Japan Securities Finance (JSF), Tokyo (July 2026)**  
+Professional exchange focused on securities financing, liquidity, collateral, and risk-management practices.
+
+## Education & Learning
+
+### Academic Degrees
+
+- **MBA, Financial Management** — National Institute of Development Administration (NIDA), 2008
+- **B.Sc., Food Process Engineering** — King Mongkut's Institute of Technology Ladkrabang (KMITL), 2003
+
+### Selected Certificates & Professional Learning
+
+- **Certificate in Applied AI — Thammasat University / TUXSA.** Completed 18 credits of Applied AI coursework and earned an academic certificate. **This is a certificate, not a completed Master's degree.** [View certificate](https://drive.google.com/file/d/1ruIFSDse_uwxPXKf9FlZLIT2KdECF4mB/view?usp=sharing)
+- **IBM AI Engineering Professional Certificate** — completed October 2025. [View certificate](https://drive.google.com/file/d/14tiwTaZ6hAfDe9NVQGRWD4vsEdMQ4Zu6/view?usp=sharing)
+- **IBM Building AI Agents and Agentic Workflows Specialization** — completed November 2025. [View certificate](https://drive.google.com/file/d/1Qu9y1TXruUZFqanESZ_40a9MRSdNQ3BJ/view?usp=sharing)
+- **Super AI Engineer Season 6 (AIAT)** — passed Foundation AI (Theory) and selected for Level 2. [View foundation certificate](https://drive.google.com/file/d/1tcEF8IdgrChaEq4P8X7-6sJ-FxGPbvxa/view?usp=sharing)
+- **IBM Full Stack Software Developer Professional Certificate** — coursework in progress.
+
+My current priority is **hands-on projects, useful applications, deployment, and user feedback** rather than collecting more certificates.
+
+## Connect
+
+- **GitHub:** [github.com/patcharaph](https://github.com/patcharaph)
+- **LinkedIn:** [linkedin.com/in/patcharaph](https://www.linkedin.com/in/patcharaph)
+- **Email:** patcharaph@gmail.com
